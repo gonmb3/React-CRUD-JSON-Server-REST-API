@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "name": "Juan 2",
+      "email": "juan2@juanc.com",
+      "phone": "0995555777",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "pepee",
+      "email": "pepe@pepe.com",
+      "phone": "115454",
+      "active": true
+    },
+    {
+      "name": "roberto",
+      "email": "robert@gmail.com",
+      "phone": "34234234324",
+      "active": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "fernando",
+      "email": "fern@gmal.com",
+      "phone": "099666555",
+      "active": true
+    }
+  ]
+}
